@@ -1,0 +1,302 @@
+[
+    {
+        "id": 1,
+        "title": "Morning Yoga Routine",
+        "mode": "Video",
+        "type": "Home",
+        "date": "2023-03-01",
+        "description": "A calming yoga session to start your day.",
+        "instructor": "John Doe",
+        "videoId": "morningyoga"
+    },
+    {
+        "id": 2,
+        "title": "High-Intensity Interval Training",
+        "mode": "Video",
+        "type": "Gym",
+        "date": "2023-02-20",
+        "description": "An intense workout for quick results.",
+        "instructor": "Jane Smith",
+        "videoId": "hiit"
+    },
+    {
+        "id": 3,
+        "title": "Beginner Pilates Class",
+        "mode": "Video",
+        "type": "Fitness Center",
+        "date": "2023-02-18",
+        "description": "Introductory class to Pilates.",
+        "instructor": "Michael Brown",
+        "videoId": "pilates"
+    },
+    {
+        "id": 4,
+        "title": "Marathon Training Plan",
+        "mode": "Plan",
+        "type": "Outdoor",
+        "date": "2023-02-15",
+        "description": "A comprehensive plan for your first marathon.",
+        "instructor": "Emily White",
+        "videoId": "marathon104"
+    },
+    {
+        "id": 5,
+        "title": "Bodyweight Workout for Strength",
+        "mode": "Article",
+        "type": "Home",
+        "date": "2023-02-10",
+        "description": "A guide to strength training without equipment.",
+        "instructor": "David Wilson",
+        "videoId": "Strength"
+    },
+    {
+        "id": 6,
+        "title": "Nutrition for Athletes",
+        "mode": "Article",
+        "type": "Home",
+        "date": "2023-02-08",
+        "description": "Eating right to enhance performance.",
+        "instructor": "Sarah Johnson",
+        "videoId": "Nutrition"
+    },
+    {
+        "id": 7,
+        "title": "Yoga for Stress Relief",
+        "mode": "Video",
+        "type": "Home",
+        "date": "2023-02-05",
+        "description": "Relax and unwind with yoga.",
+        "instructor": "Chris Martinez",
+        "videoId": "reliefyoga"
+    },
+    {
+        "id": 8,
+        "title": "Advanced Crossfit Challenges",
+        "mode": "Video",
+        "type": "Gym",
+        "date": "2023-02-03",
+        "description": "Push your limits with these challenges.",
+        "instructor": "Lisa Garcia",
+        "videoId": "crossfit"
+    },
+    {
+        "id": 9,
+        "title": "Dance Fitness Class",
+        "mode": "Live Session",
+        "type": "Fitness Center",
+        "date": "2023-02-01",
+        "description": "Get fit while having fun with dance.",
+        "instructor": "James Rodriguez",
+        "videoId": "dance107"
+    },
+    {
+        "id": 10,
+        "title": "Cardio Kickboxing",
+        "mode": "Video",
+        "type": "Gym",
+        "date": "2023-01-28",
+        "description": "An energetic workout for all fitness levels.",
+        "instructor": "Angela Lee",
+        "videoId": "cardiokickboxing"
+    },
+    {
+        "id": 11,
+        "title": "Strength Training Basics",
+        "mode": "Article",
+        "type": "Gym",
+        "date": "2023-01-26",
+        "description": "Foundational strength training techniques for beginners.",
+        "instructor": "Robert Harris",
+        "videoId": "basics"
+    },
+    {
+        "id": 12,
+        "title": "Outdoor Running Tips",
+        "mode": "Video",
+        "type": "Outdoor",
+        "date": "2023-01-24",
+        "description": "Maximize your running sessions in the outdoors.",
+        "instructor": "Patricia Clark",
+        "videoId": "outdoorrunning"
+    },
+    {
+        "id": 13,
+        "title": "Pilates for Core Strength",
+        "mode": "Video",
+        "type": "Fitness Center",
+        "date": "2023-01-20",
+        "description": "Focus on your core with these Pilates exercises.",
+        "instructor": "Daniel Lewis",
+        "videoId": "pilatescore"
+    },
+    {
+        "id": 14,
+        "title": "Boxing Workout Plan",
+        "mode": "Plan",
+        "type": "Gym",
+        "date": "2023-01-18",
+        "description": "A comprehensive boxing workout for strength and agility.",
+        "instructor": "Jennifer Walker",
+        "videoId": "Boxe"
+    },
+    {
+        "id": 15,
+        "title": "Yoga Meditation Techniques",
+        "mode": "Video",
+        "type": "Home",
+        "date": "2023-01-15",
+        "description": "Learn various meditation techniques in yoga.",
+        "instructor": "William Hall",
+        "videoId": "yogatech"
+    },
+    {
+        "id": 16,
+        "title": "Full Body Gym Workout",
+        "mode": "Video",
+        "type": "Gym",
+        "date": "2023-01-12",
+        "description": "A full-body workout routine for gym enthusiasts.",
+        "instructor": "Linda Young",
+        "videoId": "fullbodygym"
+    },
+    {
+        "id": 17,
+        "title": "Home Cardio Exercises",
+        "mode": "Article",
+        "type": "Home",
+        "date": "2023-01-10",
+        "description": "Effective cardio exercises you can do at home.",
+        "instructor": "Joseph Allen",
+        "videoId": "homecardio"
+    },
+    {
+        "id": 18,
+        "title": "Advanced Yoga Poses",
+        "mode": "Plan",
+        "type": "Fitness Center",
+        "date": "2023-01-08",
+        "description": "Challenge yourself with these advanced yoga poses.",
+        "instructor": "Barbara Scott",
+        "videoId": "Advancedyoga"
+    },
+    {
+        "id": 19,
+        "title": "Crossfit Endurance Training",
+        "mode": "Live Session",
+        "type": "Gym",
+        "date": "2023-01-05",
+        "description": "Boost your endurance with this intense Crossfit session.",
+        "instructor": "Thomas King",
+        "videoId": "crossfit113"
+    },
+    {
+        "id": 20,
+        "title": "Zumba Dance Fitness",
+        "mode": "Video",
+        "type": "Fitness Center",
+        "date": "2023-01-03",
+        "description": "Dance your way to fitness with Zumba.",
+        "instructor": "Susan Wright",
+        "videoId": "zumba"
+    },
+    {
+        "id": 21,
+        "title": "Kettlebell Workout for Strength",
+        "mode": "Video",
+        "type": "Home",
+        "date": "2023-01-01",
+        "description": "Build strength with kettlebell exercises.",
+        "instructor": "Kevin Lopez",
+        "videoId": "kettle"
+    },
+    {
+        "id": 22,
+        "title": "Marathon Nutrition Plan",
+        "mode": "Article",
+        "type": "Outdoor",
+        "date": "2022-12-30",
+        "description": "Nutritional strategies for marathon preparation.",
+        "instructor": "Karen Hill",
+        "videoId": "marathonnut"
+    },
+    {
+        "id": 23,
+        "title": "Swimming Techniques for Beginners",
+        "mode": "Video",
+        "type": "Outdoor",
+        "date": "2022-12-28",
+        "description": "Learn the basics of swimming efficiently.",
+        "instructor": "Richard Green",
+        "videoId": "swimming116"
+    },
+    {
+        "id": 24,
+        "title": "Tai Chi for Relaxation",
+        "mode": "Video",
+        "type": "Outdoor",
+        "date": "2022-12-25",
+        "description": "Discover the calming effects of Tai Chi.",
+        "instructor": "Jessica Adams",
+        "videoId": "hiit"
+    },
+    {
+        "id": 25,
+        "title": "Indoor Cycling Workout",
+        "mode": "Live Session",
+        "type": "Gym",
+        "date": "2022-12-22",
+        "description": "An engaging cycling session for all fitness levels.",
+        "instructor": "Brian Nelson",
+        "videoId": "cycling118"
+    },
+    {
+        "id": 26,
+        "title": "Mindfulness and Yoga",
+        "mode": "Article",
+        "type": "Home",
+        "date": "2022-12-20",
+        "description": "Integrating mindfulness into your yoga practice.",
+        "instructor": "Nancy Baker",
+        "videoId": "Yoga"
+    },
+    {
+        "id": 27,
+        "title": "HIIT for Fat Loss",
+        "mode": "Video",
+        "type": "Home",
+        "date": "2022-12-18",
+        "description": "High-Intensity Interval Training for quick fat loss.",
+        "instructor": "Gary Gonzalez",
+        "videoId": "hiitfatloss"
+    },
+    {
+        "id": 28,
+        "title": "Beginner-friendly Meditation",
+        "mode": "Article",
+        "type": "Home",
+        "date": "2022-12-15",
+        "description": "A guide to starting meditation for beginners.",
+        "instructor": "Elizabeth Carter",
+        "videoId": "yogatech"
+    },
+    {
+        "id": 29,
+        "title": "Rock Climbing Basics",
+        "mode": "Video",
+        "type": "Outdoor",
+        "date": "2022-12-12",
+        "description": "Learn the fundamentals of rock climbing.",
+        "instructor": "Matthew Mitchell",
+        "videoId": "rock"
+    },
+    {
+        "id": 30,
+        "title": "Spin Class Workout",
+        "mode": "Live Session",
+        "type": "Fitness Center",
+        "date": "2022-12-10",
+        "description": "Energetic spin class for cardio and endurance.",
+        "instructor": "Amanda Turner",
+        "videoId": "spin121"
+    }
+]
