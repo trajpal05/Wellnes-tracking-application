@@ -1,6 +1,5 @@
 <<<<<<< HEAD
-# Wellnes-tracking-application
-=======
+
 # Wellness-Tracking-System
 Tech Stack selected:
 
@@ -40,4 +39,4 @@ tailwind css extension: https://tailwindcss.com/docs/guides/vite
 Backend :
 run commands:nodemon index.js
 
->>>>>>> 3629b11 (Full Project)
+
